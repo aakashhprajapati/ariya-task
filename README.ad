@@ -1,0 +1,13 @@
+# MERN Role-Based Authentication System
+
+A complete role-based authentication system built with the MERN stack (MongoDB, Express.js, React, Next.js) featuring three user roles with different permissions.
+
+## 🚀 Features
+
+- **Role-Based Access Control**: Three distinct user roles (Client, HR, Super Admin)
+- **JWT Authentication**: Secure token-based authentication
+- **TypeScript**: Full TypeScript implementation
+- **Responsive UI**: Modern interface with Tailwind CSS
+- **MongoDB Integration**: Efficient data storage with Mongoose
+
+## 📁 Project Structure
